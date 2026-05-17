@@ -66,16 +66,12 @@ AI Engineer specializing in **Computer Vision**, **Generative AI**, and **High-P
   </a>
 </p>
 
----
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pactaccount&show_icons=true&locale=en&layout=compact" alt="pactaccount" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=pactaccount&show_icons=true&locale=en" alt="pactaccount" />
-</p>
+
 
 <br clear="both"/>
 
----
+
 
 <p align="left">
   <a href="https://linkedin.com/in/abhinav-vummidichetty" target="blank">
