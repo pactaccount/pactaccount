@@ -1,5 +1,7 @@
 # Hi, I'm Abhinav Vummidichetty 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=vummidichettyabhinav&label=Profile%20Views&color=0e75b6&style=flat)
+
 AI Engineer specializing in **Computer Vision**, **Generative AI**, and **High-Performance Systems**. I build robust, optimized architectures at the limit of compute.
 
 ---
