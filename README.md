@@ -15,8 +15,8 @@ I build tools that turn ML models into usable workflows. Recently, I've focused 
 **[EditLock](https://github.com/pactaccount/EditLock)** — A Mac image editor for instruction-based edits using FLUX.2 and MLX. The model runs locally; SwiftUI provides the native interface.
 
 <p align="center">
-  <a href="https://github.com/pactaccount/EditLock"><img src="https://raw.githubusercontent.com/pactaccount/EditLock/main/assets/demo/blue-mug.png" width="180" alt="Original image: blue ceramic mug" /></a>
-  <a href="https://github.com/pactaccount/EditLock"><img src="https://raw.githubusercontent.com/pactaccount/EditLock/main/assets/demo/red-mug.png" width="180" alt="Edited image: the same mug changed to red" /></a>
+  <a href="https://github.com/pactaccount/EditLock"><img src="https://raw.githubusercontent.com/pactaccount/EditLock/main/assets/demo/blue-mug.png" width="148" alt="Original image: blue ceramic mug" /></a>
+  <a href="https://github.com/pactaccount/EditLock"><img src="https://raw.githubusercontent.com/pactaccount/EditLock/main/assets/demo/red-mug.png" width="148" alt="Edited image: the same mug changed to red" /></a>
 </p>
 <p align="center"><sub>EditLock example: change the blue mug to red while keeping the scene.</sub></p>
 
