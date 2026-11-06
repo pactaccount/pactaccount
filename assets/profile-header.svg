@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title description">
+  <title id="title">Abhinav Vummidichetty</title>
+  <desc id="description">A dark, minimal nameplate with fine circular lines inspired by vision and search.</desc>
+
+  <rect width="1200" height="340" fill="#0a1014" />
+
+  <g fill="none" stroke="#52625c" stroke-width="1" opacity="0.55">
+    <circle cx="1010" cy="170" r="137" />
+    <circle cx="1010" cy="170" r="98" />
+    <circle cx="1010" cy="170" r="59" />
+    <path d="M 839 170 H 1181" />
+    <path d="M 1010 0 V 340" />
+  </g>
+
+  <circle cx="1010" cy="170" r="6" fill="#c7ef68" />
+  <path d="M 70 294 H 147" stroke="#c7ef68" stroke-width="3" />
+
+  <g fill="#f4f2eb" font-family="Georgia, 'Times New Roman', serif" font-size="91" letter-spacing="-2">
+    <text x="64" y="146">Abhinav</text>
+    <text x="64" y="251">Vummidichetty</text>
+  </g>
+</svg>
