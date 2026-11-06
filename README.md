@@ -1,16 +1,27 @@
-# Abhinav Vummidichetty
+<h1 align="center">Abhinav Vummidichetty</h1>
 
-I build AI applications across computer vision, multimodal search, and on-device inference. I care about making models useful in a complete product and documenting what their evaluations do—and do not—show.
+<p align="center">Computer vision · Multimodal search · On-device ML</p>
+
+<p align="center">
+  <a href="https://abhinavvumm.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/abhinav-vummidichetty/">LinkedIn</a> ·
+  <a href="mailto:vummidichettyabhinav@gmail.com">Email</a>
+</p>
+
+I build tools that turn ML models into usable workflows. Recently, I've focused on local image editing on Apple Silicon and finding specific moments in video. I document how I evaluate each system and where it falls short.
 
 ## Selected work
 
-- **[EditLock](https://github.com/pactaccount/EditLock)** — An image editor for Apple Silicon Macs. It uses FLUX.2 and MLX for local, instruction-based editing, with a SwiftUI interface and optional pixel locking.
-- **[Argus](https://github.com/pactaccount/Industrial-Anomaly-Detection)** — A visual inspection system that learns from normal parts and flags possible defects. The repository includes MVTec AD evaluation and operating-point analysis.
-- **[MomentFlow](https://github.com/pactaccount/MomentFlow)** — Search inside videos by visual content, spoken words, or on-screen text, then open the matching moment. The repository includes retrieval and timing evaluations.
-- **[SeaQL](https://github.com/pactaccount/SQLAgent)** — A text-to-SQL assistant that turns questions into database queries, requires review before execution, and evaluates answers against reference results.
+**[EditLock](https://github.com/pactaccount/EditLock)** — A Mac image editor for instruction-based edits using FLUX.2 and MLX. The model runs locally; SwiftUI provides the native interface.
 
-More projects and case studies are on my [portfolio](https://abhinavvumm.vercel.app/).
+<p align="center">
+  <a href="https://github.com/pactaccount/EditLock"><img src="https://raw.githubusercontent.com/pactaccount/EditLock/main/assets/demo/blue-mug.png" width="180" alt="Original image: blue ceramic mug" /></a>
+  <a href="https://github.com/pactaccount/EditLock"><img src="https://raw.githubusercontent.com/pactaccount/EditLock/main/assets/demo/red-mug.png" width="180" alt="Edited image: the same mug changed to red" /></a>
+</p>
+<p align="center"><sub>EditLock example: change the blue mug to red while keeping the scene.</sub></p>
 
-## Connect
+**[Argus](https://github.com/pactaccount/Industrial-Anomaly-Detection)** — Visual defect detection trained on normal parts, with MVTec AD evaluation and threshold calibration.
 
-[LinkedIn](https://www.linkedin.com/in/abhinav-vummidichetty/) · [Email](mailto:vummidichettyabhinav@gmail.com)
+**[MomentFlow](https://github.com/pactaccount/MomentFlow)** — Video search across visuals, speech, and on-screen text, with timestamped playback and retrieval evaluation.
+
+**[SeaQL](https://github.com/pactaccount/SQLAgent)** — Text-to-SQL with a review step before execution and evaluation against reference answers.
