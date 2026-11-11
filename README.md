@@ -4,7 +4,7 @@
 
 ### Motivation
 
-I’m drawn to the point where a model becomes useful to someone. I build the workflow around it, measure where it works and where it falls short, and keep the experience simple to use.
+where a model becomes useful to someone. I build the workflow around it, measure where it works and where it falls short, and keep the experience simple to use.
 
 ### Interests
 
